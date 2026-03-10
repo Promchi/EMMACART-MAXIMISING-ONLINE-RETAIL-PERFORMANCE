@@ -1,6 +1,7 @@
-# 📊 EmmaCart — Web & Performance Analytics 
+# 📊 EmmaCart — Web Traffic & Performance Analytics 
 
-> A full Microsoft Excel analytics project analysing the web performance of an online retail store across 3 years of operation (2022–2024).
+> A full Microsoft Excel analytics project analysing the web performance of an online retail store across 3 years of operation (2022–2024). **[📁 View Project Files on Google Drive](https://drive.google.com/drive/folders/19MszRvBEV7FZpzhRZ429UMEj8HKqu7oY?usp=sharing)**
+
 
 ---
 
@@ -69,8 +70,8 @@ The dashboard includes buttons on the right-hand side that are powered by record
 
 Dashboards
 
-![Web Performance Dashboard](assets/web-performance-dashboard.png)
-![Web Traffic Dashboard](assets/web-traffic-dashboard.png)
+![Performance Dashboard](assets/Performance-Dashboard.png)
+![Web Traffic Dashboard](assets/Web-Traffic-Dashboard.png)
 
 ## 👤 Author
 
@@ -82,4 +83,4 @@ November 2025
 
 ## 📄 Documentation
 
-A full project documentation file (`EmmaCart_Documentation.docx`) is included in this repository. It covers the data pipeline, methodology, dashboard design, macro automation, and all findings in detail.
+A full project documentation file (`EmmaCart_Documentation.docx`) is included in this repository.
