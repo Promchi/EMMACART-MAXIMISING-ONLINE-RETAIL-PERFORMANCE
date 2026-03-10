@@ -1,4 +1,4 @@
-# 📊 EmmaCart — Web & Perfromance Analytics 
+# 📊 EmmaCart — Web & Performance Analytics 
 
 > A full Microsoft Excel analytics project analysing the web performance of an online retail store across 3 years of operation (2022–2024).
 
